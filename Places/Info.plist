@@ -30,6 +30,8 @@
 	</array>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Needed for AR</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Needed for AR</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

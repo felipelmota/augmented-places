@@ -1,3 +1,10 @@
+//
+//  AnnotationView.swift
+//  Places
+//
+//  Created by Felipe Mota on 03/03/17.
+//
+
 import UIKit
 
 @UIApplicationMain
